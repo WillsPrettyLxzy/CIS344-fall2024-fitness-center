@@ -1,0 +1,1 @@
+$( 'p' ).hyphenate( 'en-us' )
